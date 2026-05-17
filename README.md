@@ -6,7 +6,7 @@
 
 ---
 
-YukkuriMovieMaker4（YMM4）上で動作する、**映像クリップの透明余白をピクセル単位で検出・除去する映像エフェクトプラグイン**です。
+YukkuriMovieMaker4（YMM4）上で動作する、**アイテムの透明余白をピクセル単位で検出・除去する映像エフェクトプラグイン**です。
 Direct2D の `Crop` および `AffineTransform2D` エフェクトチェーンを用いて処理を行います。
 
 ![Image](https://github.com/routersys/YMM4-TrimMargin/blob/main/docs/TrimMargin.png)
